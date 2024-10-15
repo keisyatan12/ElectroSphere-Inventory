@@ -19,20 +19,20 @@
 
 ## ⚙️ Features 
 
-**Admin (Pemilik Toko) 🧑‍🦱** 
+### Admin (Pemilik Toko) 🧑‍🦱
 
-### Kelola Produk 🛠️
+####  Kelola Produk 🛠️
 - Menambahkan, menghapus, dan memperbarui produk
 - Mengubah status produk (tersedia / tidak tersedia)
 - Menyusun produk berdasarkan kategori dan merek
 - Menentukan stok minimal dan notifikasi jika stok hampir habis
 
-### Kelola Stok 📦
+#### Kelola Stok 📦
 - Mengupdate stok manual
 - Melihat riwayat transaksi stok masuk dan keluar
 - Melihat status barang rusak atau retur
 
-### Laporan 📊
+#### Laporan 📊
 - Melihat laporan stok barang secara keseluruhan
 - Melihat laporan penjualan berdasarkan produk atau kategori
 - Ekspor laporan ke dalam format PDF atau Excel
