@@ -17,23 +17,26 @@
 ## Desc
 
 
-## Features
-<p>Admin (Pemilik Toko) <p>
-<p>Kelola Produk<p>
-- Menambahkan, menghapus, dan memperbarui produk<br>
-- Mengubah status produk (tersedia / tidak tersedia) <br>
-- Menyusun produk berdasarkan kategori dan merek <br>
+## ⚙️ Features 
+
+**Admin (Pemilik Toko) 🧑‍🦱** 
+
+### Kelola Produk 🛠️
+- Menambahkan, menghapus, dan memperbarui produk
+- Mengubah status produk (tersedia / tidak tersedia)
+- Menyusun produk berdasarkan kategori dan merek
 - Menentukan stok minimal dan notifikasi jika stok hampir habis
 
-<p>Kelola Stok<p>
-- Mengupdate stok manual <br>
-- Melihat riwayat transaksi stok masuk dan keluar <br>
-- Melihat status barang rusak atau retur <br>
+### Kelola Stok 📦
+- Mengupdate stok manual
+- Melihat riwayat transaksi stok masuk dan keluar
+- Melihat status barang rusak atau retur
 
-<p>Laporan<p>
-- Melihat laporan stok barang secara keseluruhan<br>
-- Melihat laporan penjualan berdasarkan produk atau kategori<br>
-- Ekspor laporan ke dalam format PDF atau Excel<br>
+### Laporan 📊
+- Melihat laporan stok barang secara keseluruhan
+- Melihat laporan penjualan berdasarkan produk atau kategori
+- Ekspor laporan ke dalam format PDF atau Excel
+
 
   
 ## Sumber Daya Luar
