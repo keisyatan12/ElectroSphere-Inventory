@@ -15,7 +15,7 @@
 - Sakifa Indira Putri - 221402130<br> Front-End  <i>()</i>
 
 ## Desc
-
+ELectroSphere Inventory adalah aplikasi mobile yang dirancang khusus untuk mengelola inventarisasi barang-barang elektronik secara efisien. Aplikasi ini menawarkan kemudahan dalam mencatat, mengelompokkan, dan melacak stok barang elektronik seperti smartphone, laptop, televisi, hingga peralatan elektronik rumah tangga lainnya. Dengan antarmuka yang user-friendly, pengguna dapat dengan cepat memasukkan data barang, termasuk deskripsi, jumlah stok, serta informasi terkait harga dan pemasok. 
 
 ## ⚙️ Features 
 
