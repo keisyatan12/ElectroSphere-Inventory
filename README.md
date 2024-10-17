@@ -70,5 +70,5 @@ TBA
   
 # Instalasi dan Setup
     1. Install Android Studio
-        - Download dan install Android Studio dari [tes](https://developer.android.com/studio)
+        - Download dan install Android Studio dari[Klik di sini](https://developer.android.com/studio?hl=id)
 
