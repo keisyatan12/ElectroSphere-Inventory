@@ -59,7 +59,12 @@ ELectroSphere Inventory adalah aplikasi mobile yang dirancang khusus untuk menge
 TBA
 
 ## Sumber Daya Luar
-<p>Beberapa sumber daya luar yang dipakai dalam aplikasi ini: </p>
-
+TBA
 
 ## Environment
+- Aplikasi ini hanya bisa dijalankan pada perangkat android
+- Operating System : Windows 11 Professional
+  Processor : Intel Core i5 atau AMD RYZEN 5
+  RAM : 8GB
+- Android Studio : Versi terbaru dengan Android SDK 31 atau lebih tinggi
+  
