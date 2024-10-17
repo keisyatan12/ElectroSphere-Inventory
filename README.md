@@ -19,7 +19,7 @@ ELectroSphere Inventory adalah aplikasi mobile yang dirancang khusus untuk menge
 
 ## ⚙️ Features 
 
-### Admin (Pemilik Toko) 🧑‍🦱
+### Pemilik Toko 🧑‍🦱
 
 ####  Kelola Produk 🛠️
 - Menambahkan, menghapus, dan memperbarui produk
@@ -37,6 +37,18 @@ ELectroSphere Inventory adalah aplikasi mobile yang dirancang khusus untuk menge
 - Melihat laporan penjualan berdasarkan produk atau kategori
 - Ekspor laporan ke dalam format PDF atau Excel
 
+### Pegawai Toko (Sales)
+
+####  Kelola Produk 🛠️
+- Menambahkan, menghapus, dan memperbarui produk
+- Mengubah status produk (tersedia / tidak tersedia)
+- Menyusun produk berdasarkan kategori dan merek
+- Menentukan stok minimal dan notifikasi jika stok hampir habis
+
+#### Kelola Stok 📦
+- Mengupdate stok manual
+- Melihat riwayat transaksi stok masuk dan keluar
+- Melihat status barang rusak atau retur
 
   
 ## Sumber Daya Luar
