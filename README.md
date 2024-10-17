@@ -71,8 +71,5 @@ TBA
 ## Instalasi dan Setup
     1. Install Android Studio
         - Download dan install Android Studio dari [Android Studio Official Website](https://developer.android.com/studio?hl=id)
-    2. Clone Repository
-        - Clone repository ini ke lokal komputer:
-          git
   
 
