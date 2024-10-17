@@ -68,5 +68,5 @@ TBA
   RAM : 8GB
 - Android Studio : Versi terbaru dengan Android SDK 31 atau lebih tinggi
   
-[Klik di sini](https://developer.android.com/studio?hl=id)
+
 
