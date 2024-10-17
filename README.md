@@ -7,7 +7,7 @@
 
 - Keisya - 221402006<br> Back-End  <i>()</i>
 - Gylbert Chrismiguel Sitorus - 221402025
-<br> Front-End <i>()</i>
+<br> Front-End, Documentation <i>()</i>
 - Yohana Marito Marbun - 221402065
 <br> Back-End  <i>()</i>
 - Diva Anggreini Harahap - 221402094<br> Back-End  <i>()</i>
@@ -38,20 +38,26 @@ ELectroSphere Inventory adalah aplikasi mobile yang dirancang khusus untuk menge
 - Ekspor laporan ke dalam format PDF atau Excel
 - Melihat laporan pegawai mengenai barang rusak atau retur
 
+#### Log
+- Memantau aktivitas pegawai, seperti riwayat menambahkan produk
+
 ### Pegawai Toko (Sales)
 
 ####  Kelola Produk 🛠️
-- Menambahkan, menghapus, dan memperbarui produk
-- Mengubah status produk (tersedia / tidak tersedia)
-- Menyusun produk berdasarkan kategori dan merek
-- Menentukan stok minimal dan notifikasi jika stok hampir habis
+- Melihat produk
+- Menambahkan produk
+- Melaporkan barang yang rusak atau retur
 
-#### Kelola Stok 📦
+### Kelola Stok 📦
 - Mengupdate stok manual
-- Melihat riwayat transaksi stok masuk dan keluar
-- Melihat status barang rusak atau retur
+- Melihat riwayat stok masuk dan keluar
 
-  
+## Permissions
+- Kamera
+
+## Library
+TBA
+
 ## Sumber Daya Luar
 <p>Beberapa sumber daya luar yang dipakai dalam aplikasi ini: </p>
 
