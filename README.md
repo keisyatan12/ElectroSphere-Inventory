@@ -63,8 +63,8 @@ TBA
 
 ## Environment
 - Aplikasi ini hanya bisa dijalankan pada perangkat android
-- Operating System : Windows 11 Professional
-  Processor : Intel Core i5 atau AMD RYZEN 5
+- Operating System : Windows 11 Professional <br>
+  Processor : Intel Core i5 atau AMD RYZEN 5 <br>
   RAM : 8GB
 - Android Studio : Versi terbaru dengan Android SDK 31 atau lebih tinggi
   
