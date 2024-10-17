@@ -68,7 +68,7 @@ TBA
   RAM : 8GB
 - Android Studio : Versi terbaru dengan Android SDK 31 atau lebih tinggi
   
-# Instalasi dan Setup
-    1. Install Android Studio
-        [Klik di sini](https://developer.android.com/studio?hl=id)
+## Instalasi dan Setup
+  [Klik di sini](https://developer.android.com/studio?hl=id)
+  
 
