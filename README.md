@@ -69,6 +69,6 @@ TBA
 - Android Studio : Versi terbaru dengan Android SDK 31 atau lebih tinggi
   
 ## Instalasi dan Setup
- - [Klik di sini](https://developer.android.com/studio?hl=id)
+ - Download dan install Android Studio dari [Android Studio Official Website](https://developer.android.com/studio?hl=id)
   
 
