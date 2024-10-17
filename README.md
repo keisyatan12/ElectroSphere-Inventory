@@ -71,5 +71,7 @@ TBA
 ## Instalasi dan Setup
     Install Android Studio
       Download dan install Android Studio dari [Website](https://developer.android.com/studio?hl=id)
-  
+    Clone Repository
+      Melakukan clone repository ke lokal komputer:
+      git clone https://github.com/bew/Rencanain.git
 
