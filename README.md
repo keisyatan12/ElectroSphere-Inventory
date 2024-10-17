@@ -69,9 +69,9 @@ TBA
 - Android Studio : Versi terbaru dengan Android SDK 31 atau lebih tinggi
   
 ## Instalasi dan Setup
-    Install Android Studio
-      Download dan install Android Studio dari [Website](https://developer.android.com/studio?hl=id)
-    Clone Repository
-      Melakukan clone repository ke lokal komputer:
-      [git clone https://github.com/bew/Rencanain.git](https://github.com/keisyatan12/ElectroSphere-Inventory.git)
-
+    1. Install Android Studio
+        Download dan install Android Studio dari [Website](https://developer.android.com/studio?hl=id)
+    2. Clone Repository
+        Melakukan clone repository ke lokal komputer:
+        [git clone https://github.com/bew/Rencanain.git](https://github.com/keisyatan12/ElectroSphere-Inventory.git)
+        
