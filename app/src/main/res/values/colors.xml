@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2788D6</color>
+    <color name="royal">#334EAC</color>
+    <color name="moon">#F7F2EB</color>
+    <color name="china">#7096D1</color>
+    <color name="asian_pear">#F2F0DE</color>
+    <color name="midnight">#081F5C</color>
+    <color name="dawn">#D0E3FF</color>
 </resources>
